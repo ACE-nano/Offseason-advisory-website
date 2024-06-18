@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Goonsquad FRC</title>
+    <link rel="stylesheet" href="style.css">
+<style>
+body {background-color: #003333;}
+h1   {color: #00ffff;}
+p    {color: #00cccc;}
+</style>
+
+<p>current time</p> 
+<p id="demo"></p>
+
+<script>
+var today = new Date();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+document.getElementById("demo").innerHTML = time;
+</script>
+
+<style>
+div {
+  width:300px;
+  margin:auto;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+</style>
+
+<div style = "margin-bottom: 100px;">
+  <h1>Goonsquad Robotics</h1>
+  <p>Code brought you buy johan</p>
+  <p>Last update 6/18/2024</p>
+
+</div>
+
+  </head>
+  <body>
+	<script src="index.js"></script>
+  </body>
+  
+<!-- remember to fix this next week
+<div>
+  <h1> previous WEEK: 0 </h1>
+  <p>starting 6/17/24, ends 6/24/24</p>
+</div>
+--> 
+
+<div>
+  <h1> CURRENT WEEK: 0 </h1>
+  <p>starting 6/17/24, ends 6/24/24</p>
+</div>
+
+
+<div>
+  <h1> Next WEEK: 1 </h1>
+  <p>starting 6/17/24, ends 6/24/24</p>
+</div>
+
+
+
+
+
+</html>
+
+
+
+
