@@ -7,10 +7,11 @@
     <title>Goonsquad FRC</title>
     <link rel="stylesheet" href="style.css">
 <style>
-body {background-color: #003333;}
-h1   {color: #00ffff;}
-p    {color: #00cccc;}
+body {background-color: #003333; color: #007FFF;font-family: "Lucida Console";}
+h1   {color: #00ffff; font-family: "Lucida Console";}
+p    {color: #00cccc;font-family: "Lucida Console";}
 </style>
+
 
 <p>current time</p> 
 <p id="demo"></p>
@@ -25,16 +26,15 @@ document.getElementById("demo").innerHTML = time;
 div {
   width:300px;
   margin:auto;
-  vertical-align: middle;
-  text-align: center;
   line-height: 20px;
   margin-bottom: 10px;
 }
 </style>
 
-<div style = "margin-bottom: 100px;">
-  <h1>Goonsquad Robotics</h1>
-  <p>Code brought you buy johan</p>
+<div style = "margin-bottom: 100px; vertical-align: middle;
+  text-align: center;">
+  <h1>Goonsquad <br> <br> Robotics</h1>
+  <p>Code brought you by johan</p>
   <p>Last update 6/18/2024</p>
 
 </div>
@@ -51,26 +51,30 @@ div {
 </div>
 --> 
 
-<div>
-  <h1>CURRENT WEEK: 0</h1>
-  <p>starting 6/17/24, ends 6/24/24</p>
+<div style = "margin-bottom: 100px; width:600px;">
+  <h1 style = "vertical-align: middle;text-align: center;">CURRENT WEEK: 0</h1>
+  <p style = "vertical-align: middle;text-align: center;">starting 6/17/24, ends 6/24/24</p>
   <body>
  1. Starting thinking of basic robot concepts (even if you have to use MS Paint)
-
- 2. Research the game manual
- 
+ <br>  <br>
+ 2. Research the <a href="https://www.geokitten.com">game manual</a>
+ <br>  <br>
  3. With your group, form an initial, basic concept for a robot, to compete in Crescendo.
- 
+ <br>  <br>
  4. Go to the RamTech Wiki, and start studying different mechanical concepts and SOLIDWORKS. Ask liev, or 		Alonso for help installing SOLIDWORKS.
- 
+ <br>  <br>
  5. check out the curriculum used for engineering classes. This spells out the more complicated topics.
- 
+ <br> <br>
  6. Make sure to stay informed about different FRC topics, and check out different team’s robots (behind the 	bumper is a good resource)
   </body>
+<br> <br>
+  <h1 style = "vertical-align: middle;text-align: center;"> assignment: </h1>
+  <p style = "color: #00FF80;"> This week, you will design a side view of a robot (2d). We will be selecting designs on Wednesday, and starting the cadding process.
+You can use paint, for all I care. It does not matter, just make something. </p>
 </div>
 
 
-<div>
+<div style = "vertical-align: middle;text-align: center;">
   <h1>Next WEEK: 1</h1>
   <p>starting 6/17/24, ends 6/24/24</p>
   <body>
@@ -79,17 +83,4 @@ div {
 </div>
 
 
-
-
-
 </html>
-
-
-
-
-
-
-
-
-
-
