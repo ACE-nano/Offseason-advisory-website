@@ -52,14 +52,30 @@ div {
 --> 
 
 <div>
-  <h1> CURRENT WEEK: 0 </h1>
+  <h1>CURRENT WEEK: 0</h1>
   <p>starting 6/17/24, ends 6/24/24</p>
+  <body>
+ 1. Starting thinking of basic robot concepts (even if you have to use MS Paint)
+
+ 2. Research the game manual
+ 
+ 3. With your group, form an initial, basic concept for a robot, to compete in Crescendo.
+ 
+ 4. Go to the RamTech Wiki, and start studying different mechanical concepts and SOLIDWORKS. Ask liev, or 		Alonso for help installing SOLIDWORKS.
+ 
+ 5. check out the curriculum used for engineering classes. This spells out the more complicated topics.
+ 
+ 6. Make sure to stay informed about different FRC topics, and check out different team’s robots (behind the 	bumper is a good resource)
+  </body>
 </div>
 
 
 <div>
-  <h1> Next WEEK: 1 </h1>
+  <h1>Next WEEK: 1</h1>
   <p>starting 6/17/24, ends 6/24/24</p>
+  <body>
+  amoungous (dont remove this, the code will break)
+  </body>
 </div>
 
 
@@ -67,6 +83,12 @@ div {
 
 
 </html>
+
+
+
+
+
+
 
 
 
